@@ -1,4 +1,3 @@
-# Modify the setup_logging method in /app/init.py
 import os
 from decimal import Decimal
 from calculator.plugin_loader import load_plugins, get_plugin
