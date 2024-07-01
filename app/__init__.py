@@ -1,4 +1,3 @@
-# Update /app/init.py to integrate history management
 import os
 from decimal import Decimal
 from calculator.plugin_loader import load_plugins, get_plugin
