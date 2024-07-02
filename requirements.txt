@@ -8,7 +8,9 @@ filelock==3.15.1
 iniconfig==2.0.0
 isort==5.13.2
 mccabe==0.7.0
+numpy==2.0.0
 packaging==23.2
+pandas==2.2.2
 platformdirs==4.1.0
 pluggy==1.4.0
 pylint==3.0.3
@@ -18,8 +20,10 @@ pytest-cov==4.1.0
 pytest-pylint==0.21.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
+pytz==2024.1
 six==1.16.0
 tomli==2.0.1
 tomlkit==0.12.3
 typing_extensions==4.9.0
+tzdata==2024.1
 virtualenv==20.26.2
